@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThatBoiDev
+- 👋 Hi, I’m @ThatBoiDev (for people who don't know: I changed my username)
 - 👀 I’m interested in Godot and AvdanOS
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on projects
