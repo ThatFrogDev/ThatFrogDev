@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartZielman
-- 👀 I’m interested in JavaScript, C# and Unity
-- 🌱 I’m currently learning React.js and Unity
+- 👀 I’m interested in Godot and AvdanOS
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: just message me
 
