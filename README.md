@@ -10,6 +10,8 @@ yo! as i already said, i'm ThatBoi. i'm from the netherlands and yeah, i do like
 ## github stats
 idk why i have them but everyone haves them so why not :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatBoiDev)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+<a href="http://www.github.com/ThatBoiDev"><img src="https://github-readme-stats.vercel.app/api?username=ThatBoiDev&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
+
+<a href="http://www.github.com/ThatBoiDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatBoiDev&langs_count=5&theme=radical" alt="My Most Used Languages" /></a>
 
 thats it. bye!
