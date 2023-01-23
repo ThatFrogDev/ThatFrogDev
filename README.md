@@ -7,11 +7,10 @@
 ## short introduction
 yo! as i already said, i'm ThatBoi. i'm from the netherlands and yeah, i do like cycling. currently, i'm working on AvdanOS and creating my own games in Godot.<br>
 
-## github stats
-idk why i have them but everyone haves them so why not :)
+## **götsta** (very cool game, go check it out)
+götsta is a game i am developing with a small team. it's a futuristic puzzle rpg, made in Godot. you can join the team if you want to contribute, or be a supporter in our Discord server with 40 members. [JOIN THE SERVER HERE!](https://discord.gg/A6veBWa5jF)
 
+## yes
 <a href="http://www.github.com/ThatFrogDev"><img src="https://github-readme-stats.vercel.app/api?username=ThatFrogDev&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
 
-<a href="http://www.github.com/ThatBoiDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatFrogDev&langs_count=5&theme=radical" alt="My Most Used Languages" /></a>
-
-thats it. bye!
+byeeee!
