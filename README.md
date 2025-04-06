@@ -8,7 +8,7 @@ the languages i know best (and actually made some stuff with) are Python and JS/
 ## projects i made
 here are the most notable of them:
 - [Drempal](https://github.com/thatfrogdev/drempal): a game where you need to dodge knives and collect coins
-- [StudyMate](https://github.com/thatfrogdev/studymatr): a pomodoro timer extension for your browser if you get distracted fast
+- [StudyMate](https://github.com/thatfrogdev/studymate): a pomodoro timer extension for your browser if you get distracted fast
 - [Notabena (no longer maintained)](https://github.com/thatfrogdev/notabena): a note-taking app i made to learn some Rust
 
 i also make websites for people on request (currently making one for myself), helped creating [this game about loneliness](https://github.com/thatfrogdev/Solitude) in a team and I helped contribute to some open source project like Zed (code editor), Godot (game engine) and Sokora (tool to help manage communities)
