@@ -13,7 +13,7 @@ here are the most notable of them:
 
 i also make websites for people on request (currently making one for myself) and made multiple games, like [this game about loneliness](https://github.com/thatfrogdev/Solitude) in a team and I helped contribute to some open source project like Zed (code editor), Godot (game engine) and Sokora (tool to help manage communities)
 
-some people are so productive that they got a lot of projects to showcase. i don't, really. i coded a lot in the past but got bored of a project way too soon so it's nothing much worth showing off. now i have some tricks for it so i can _actually_ show the people what i do and where my passion lies. read [this letter](https://gist.github.com/ThatFrogDev/dda1efa07b45659ffade24b880465fd0) to learn more about my journey and for some motivation. there's this [AMAZING BLOG](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn) that feels like it's written just about me (but probably every programmer experiences this)
+some people are so productive that they got a lot of projects to showcase. i don't, really. i coded a lot in the past but got bored of a project way too soon so it's nothing much worth showing off. now i have some tricks for it so i can _actually_ show the people what i do and where my passion lies. read [this letter](https://gist.github.com/SwiftDust/dda1efa07b45659ffade24b880465fd0) to learn more about my journey and for some motivation. there's this [AMAZING BLOG](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn) that feels like it's written just about me (but probably every programmer experiences this)
 
 feel free to check out "repositories" tab to see everything I made!
 
